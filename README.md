@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @badrkio
+
  -👨🏻‍💻 I am currently studying at ALX
+ 
  -🌱 I’m currently learning Software
+
  -💬 Ask me about Software
 - 📫 How to reach me badarkaba86@hmail.com
 
